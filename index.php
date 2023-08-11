@@ -10,7 +10,7 @@
     <div class="detail">
            <lable>Email</lable>
             <input type="email" name="email" id="email" class="email">
-            <lable>Password</labe>
+            <lable>Password</lable>
             <input type="password" name="password" id="password" class="p1">
         
  </div>
